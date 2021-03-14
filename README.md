@@ -3,6 +3,14 @@
 ## 공식 사이트 
 
 * [https://klay.farm](https://klay.farm)
+* [공식문서](https://docs.klay.farm)
+
+## 주의사항
+
+* [RISK](https://docs.klay.farm/risk) 확인하기
+* KLAY.farm은 베타 서비스로, 본 소스코드는 KlaytnScope 에 코드 검증을 위해 제출된 상태이고 아직 페이지에 반영되지 않았습니다.
+* 소스코드가 등록 된 후 반드시 직접 소스 코드 검증을 완료 한 후 서비스를 이용해주시기 바랍니다.
+* 검증 완료 후 다시 커뮤티니를 통해 공유할 예정입니다.
 
 ## BEE Token 
 * Address : [0xa128e62cfb454ab5b580a7385de2f228ad7b69d1](https://scope.klaytn.com/account/0xa128e62cfb454ab5b580a7385de2f228ad7b69d1?tabId=contractCode)
