@@ -1,5 +1,9 @@
 # KLAYFarm 배포 정보
 
+## 공식 사이트 
+
+* [https://klay.farm](https://klay.farm)
+
 ## BEE Token 
 * Address : [0xa128e62cfb454ab5b580a7385de2f228ad7b69d1](https://scope.klaytn.com/account/0xa128e62cfb454ab5b580a7385de2f228ad7b69d1?tabId=contractCode)
 * Contract Name : KLAYFarmToken
@@ -29,6 +33,7 @@
 	
 ## KLAYSwap Vault
 
+* Address : [0x64162f57f67f3fe3186bae24409b2769110381a6](https://scope.klaytn.com/account/0x64162f57f67f3fe3186bae24409b2769110381a6?tabId=contractCode) (for KLAY-BEE LP)
 * Address : [0x7d8f75bb6a826874ec312a204a3b052384b9bbb5](https://scope.klaytn.com/account/0x7d8f75bb6a826874ec312a204a3b052384b9bbb5?tabId=contractCode) (for KLAY-SKLAY LP)
 * Address : [0x992a44221368dd1ba3fa801459e8a042d047c96a](https://scope.klaytn.com/account/0x992a44221368dd1ba3fa801459e8a042d047c96a?tabId=contractCode) (for KLAY-KSP LP)
 * Address : [0x4f8c1e790df0a040036bef4b051373136bff6f73](https://scope.klaytn.com/account/0x4f8c1e790df0a040036bef4b051373136bff6f73?tabId=contractCode) (for KLAY-KETH LP)
